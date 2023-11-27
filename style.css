@@ -15,8 +15,8 @@ body{
 }
 
 #card{
-    width: 700px;
-    height: 1200px;
+    width: 350px;
+    height: 600px;
     border-radius: 10px;
     position: relative;
     overflow: hidden;
